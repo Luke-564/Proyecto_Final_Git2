@@ -19,9 +19,8 @@ Este proyecto consiste en el desarrollo colaborativo de una calculadora básica 
 - ✅ **División** Ignacio
 
 ### Desafíos Encontrados
-- Clonacion del repositorio: las diapositivas no estaban del todo claras y no funcionaban los comandos. Terminamos usando un fork para la clonación. Los profes fueron muy amables para explicarnos y guiarnos en el proceso. :)
+- Clonación del repositorio: las diapositivas no estaban del todo claras y no funcionaban los comandos. Terminamos usando un fork para la clonación. Los profes fueron muy amables para explicarnos y guiarnos en el proceso. 
 - Ramas: cierto integrante del grupo no sabia como crear ramas. Pero cierto otro si. Fue un  trabajo en conjunto para ir aprendiendo los comandos y opciones del visual.
-- Ramas parte 2: el integrante que no es lider del proyecto no puede posicionarse en otras ramas no creadas por él, por ejemplo, el main. Esta duda sigue sin responderse.
 
 ---
 **Fecha de Entrega:** [05/12/2025]
