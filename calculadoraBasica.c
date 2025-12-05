@@ -81,6 +81,14 @@ void mostrar_menu()
 }
 
 // Crear las demás funciones aquí
+
+int multiplicar(int a, int b){
+return (a*b);
+}
+
+int dividir(int a, int b){
+return (a/b);
+}
 int sumar (int a, int b){
     return (a + b);
 }
